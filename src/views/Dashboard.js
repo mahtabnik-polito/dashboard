@@ -137,8 +137,8 @@ const words=
         {text:'stayathome',value:1}]
 
         const options = {
-          // rotations: 0,
-          // rotationAngles: [0, 0],
+          rotations: 0,
+          rotationAngles: [0, 0],
           fontSizes: [19, 45],
         };
 
